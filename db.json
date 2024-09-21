@@ -1,0 +1,48 @@
+{
+    "Docentes": [
+        {
+            "nombre": "Sergie",
+            "apellido": "Code",
+            "clases": [
+                {
+                    "nombre": "Node.js desde cero"
+                },
+                {
+                    "nombre": "React.js desde cero"
+                },
+                {
+                    "nombre": "JavaScript desde cero"
+                }
+            ]
+        }
+    ],
+    "Estudiantes": [
+        {
+            "nombre": "Josué Alejandro",
+            "apellido": "Castro Laguna",
+            "promedio": 8.2
+        },
+        {
+            "nombre": "Sabrina",
+            "apellido": "Carpenter",
+            "promedio": 10
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "HTML desde cero",
+            "duracion": 2,
+            "dificultad": "Iniciante"
+        },
+        {
+            "nombre": "TypeScript desde cero",
+            "duracion": 6,
+            "dificultad": "Intermedio"
+        },
+        {
+            "nombre": "Java desde cero",
+            "duracion": 7,
+            "dificultad": "Avanzado"
+        }
+    ]
+}
