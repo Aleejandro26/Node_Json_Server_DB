@@ -8,5 +8,5 @@ Este repositorio tiene una api-rest falsa realizada con json-server con la cual 
 4. Levantá el servidor haciendo `npm start`
 
 # Requiere
-- Node: Se debe instalar NODE en el sistema operativo
-- GIT: Debe tener Instalado GIT
+- **Node:** Se debe instalar NODE en el sistema operativo
+- **GIT:** Debe tener Instalado GIT
